@@ -1,0 +1,20 @@
+2024-08-20 15:27:27,772 - TradingBot - INFO - No previous state found. Starting fresh.
+2024-08-20 15:27:28,390 - TradingBot - ERROR - API key validation failed: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/account?timestamp=1724192847772&signature=b9ec14e10014706d8ea65fad506c4132e53437dc6dfb6a7e09eaf413b8446d6e
+2024-08-20 15:43:06,478 - TradingBot - INFO - No previous state found. Starting fresh.
+2024-08-20 15:43:07,108 - TradingBot - DEBUG - Making API request: GET https://api.binance.com/api/v3/account
+2024-08-20 15:43:07,108 - TradingBot - DEBUG - Params: {'timestamp': 1724157801729, 'signature': 'cc146890d3becd789c17ed40d230424eb5a14d2411f7de3d737afc8aeeb0b944'}
+2024-08-20 15:43:07,108 - TradingBot - DEBUG - Headers: {'X-MBX-APIKEY': 'your_api_key_here'}
+2024-08-20 15:43:07,607 - TradingBot - ERROR - API request failed: 401 Client Error: Unauthorized for url: https://api.binance.com/api/v3/account?timestamp=1724157801729&signature=cc146890d3becd789c17ed40d230424eb5a14d2411f7de3d737afc8aeeb0b944
+2024-08-20 15:43:07,607 - TradingBot - ERROR - API key validation failed: 401 Client Error: Unauthorized for url: https://api.binance.com/api/v3/account?timestamp=1724157801729&signature=cc146890d3becd789c17ed40d230424eb5a14d2411f7de3d737afc8aeeb0b944
+2024-08-20 15:45:05,272 - TradingBot - INFO - No previous state found. Starting fresh.
+2024-08-20 15:45:05,789 - TradingBot - DEBUG - Making API request: GET https://api.binance.com/api/v3/account
+2024-08-20 15:45:05,789 - TradingBot - DEBUG - Params: {'timestamp': 1724157920486, 'signature': '01ff4ae68318ef409ca8e8bab49933f1037f008e3aa4d11a209174152f8fdb41'}
+2024-08-20 15:45:05,789 - TradingBot - DEBUG - Headers: {'X-MBX-APIKEY': 'xphI8ywTK6IIyyLXhvoSLF8MEWbGPbkC0UFtp7wBRrDvp8UkJMtNdl5ifj28L2Lp'}
+2024-08-20 15:45:06,641 - TradingBot - ERROR - API request failed: 401 Client Error: Unauthorized for url: https://api.binance.com/api/v3/account?timestamp=1724157920486&signature=01ff4ae68318ef409ca8e8bab49933f1037f008e3aa4d11a209174152f8fdb41
+2024-08-20 15:45:06,641 - TradingBot - ERROR - API key validation failed: 401 Client Error: Unauthorized for url: https://api.binance.com/api/v3/account?timestamp=1724157920486&signature=01ff4ae68318ef409ca8e8bab49933f1037f008e3aa4d11a209174152f8fdb41
+2024-08-20 15:56:08,907 - TradingBot - INFO - No previous state found. Starting fresh.
+2024-08-20 15:56:09,481 - TradingBot - DEBUG - Making API request: GET https://api.binance.com/api/v3/account
+2024-08-20 15:56:09,481 - TradingBot - DEBUG - Params: {'timestamp': 1724158584177, 'signature': '910634959ba35c3031e83c54f6375e075be2f4b87fffc76bb1056f6f368062f3'}
+2024-08-20 15:56:09,481 - TradingBot - DEBUG - Headers: {'X-MBX-APIKEY': 'xphI8ywTK6IIyyLXhvoSLF8MEWbGPbkC0UFtp7wBRrDvp8UkJMtNdl5ifj28L2Lp'}
+2024-08-20 15:56:09,911 - TradingBot - ERROR - API request failed: 401 Client Error: Unauthorized for url: https://api.binance.com/api/v3/account?timestamp=1724158584177&signature=910634959ba35c3031e83c54f6375e075be2f4b87fffc76bb1056f6f368062f3
+2024-08-20 15:56:09,911 - TradingBot - ERROR - API key validation failed: 401 Client Error: Unauthorized for url: https://api.binance.com/api/v3/account?timestamp=1724158584177&signature=910634959ba35c3031e83c54f6375e075be2f4b87fffc76bb1056f6f368062f3
